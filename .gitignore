@@ -38,11 +38,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 terraform
-.idea//.blackbox/pubring.gpg~
-/.blackbox/pubring.kbx~
-/.blackbox/secring.gpg
-/configs/config.yml
-/configs/feiseu-config.yml
-/configs/kubeconfig.yml
-/configs/svc-acct-secret.yaml
-/configs/test.yml
+
+k8s_client_go
